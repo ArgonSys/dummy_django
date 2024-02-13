@@ -78,7 +78,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "dummy_django",
         "USER": "root",
-        "PASSWORD": "",
+        "PASSWORD": "ragp)!WJ(3UC",
     }
 }
 
